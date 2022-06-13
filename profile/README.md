@@ -1,5 +1,6 @@
 # CAUCLUB_2022_CAPSTONE
-[header](https://capsule-render.vercel.app/api?type=wave&color=6BBEE2&height=300&section=header&text=CAUCLUB%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6BBEE2&height=300&section=header&text=CAUCLUB%20render&fontSize=90)
+
 <img width="1229" alt="CAUCLUB Readme 표지" src="https://user-images.githubusercontent.com/50792985/173260372-36b3e4b8-2d8a-408d-9dc2-62b2ce5cb6bd.png">
 
 
