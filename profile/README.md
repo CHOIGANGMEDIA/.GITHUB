@@ -43,7 +43,7 @@ CAUCLUB에서는 캠퍼스 / 학과 / 동아리 목적(학술,예체능,기타) 
 [최종 매뉴얼](https://github.com/CHOIGANGMEDIA/Documents/blob/main/CAUCLUB%20%EC%B5%9C%EC%A2%85%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
 # 🛠️ 기술 스택
-[Picture1.png](https://github.com/CHOIGANGMEDIA/Documents/blob/404c9b5dd9cd3784c5219183622e58fbcd18dd45/Picture1.png)
+![Picture1.png](https://github.com/CHOIGANGMEDIA/Documents/blob/404c9b5dd9cd3784c5219183622e58fbcd18dd45/Picture1.png)
 
 # 👨‍🏫 멘토링 과정
 1. [멘토링 보고서 1차](https://github.com/CHOIGANGMEDIA/Documents/blob/main/CAUCLUB%20%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%201%E1%84%8E%E1%85%A1.pdf)
