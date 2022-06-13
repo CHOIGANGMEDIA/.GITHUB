@@ -1,5 +1,7 @@
 # CAUCLUB_2022_CAPSTONE
 
+<img width="1229" alt="CAUCLUB Readme 표지" src="https://user-images.githubusercontent.com/50792985/173260372-36b3e4b8-2d8a-408d-9dc2-62b2ce5cb6bd.png">
+
 
 1. [최종 제안서](https://github.com/CHOIGANGMEDIA/Documents/blob/main/CAUCLUB%20%EC%B5%9C%EC%A2%85%20%EC%A0%9C%EC%95%88%EC%84%9C.pdf)
 2. [멘토링 보고서 1차](https://github.com/CHOIGANGMEDIA/Documents/blob/main/CAUCLUB%20%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%201%E1%84%8E%E1%85%A1.pdf)
